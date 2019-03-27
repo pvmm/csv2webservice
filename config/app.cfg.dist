@@ -1,0 +1,3 @@
+API_PREFIX = "/csv/api/v1.0"
+MONGO_URI = "mongodb://user:password@0.0.0.0:port/dbname"
+HOST_IP = "0.0.0.0"
