@@ -6,7 +6,7 @@ chardet==3.0.4
 click==6.7
 Flask==1.0.2
 Flask-Compress==1.4.0
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 Flask-PyMongo==2.1.0
 Flask-RESTful==0.3.6
 idna==2.7
