@@ -24,4 +24,4 @@ pytz==2018.4
 requests==2.32.4
 six==1.11.0
 urllib3==2.5.0
-Werkzeug==3.0.6
+Werkzeug==3.1.4
